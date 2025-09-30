@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamnirajjha" target="blank"><img src="https://img.shields.io/twitter/follow/iamnirajjha?logo=twitter&style=for-the-badge" alt="iamnirajjha" /></a> </p>
 
-- 🔭 I’m currently working on [The Coder'z, Vichar Space - Blogging Platform, Personal Full Stack Todo App with AI features](https://coderzai.xyz)
+- 🔭 I’m currently working on [The Coder'z, Project Central, ValidateX](https://coderzai.xyz, https://projectcentral.nirajjha.xyz, https://validatex.nirajjha.xyz)
 
 - 🌱 I’m currently learning **DevOps from Harkirat Cohort-2**
 
 - 👯 I’m looking to collaborate on **An online AI code generator like bolt.new**
 
-- 👨‍💻 All of my projects are available at [https://niraj-jha.vercel.app/](https://nirajjha.xyz)
+- 👨‍💻 All of my projects are available at [https://nirajjha.xyz](https://nirajjha.xyz)
 
 - 📝 I regularly write articles on [Will write soon in the future](Will write soon in the future)
 
