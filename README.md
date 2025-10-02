@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **DevOps from Harkirat Cohort-2**
 
-- 👯 I’m looking to collaborate on **An online AI code generator like bolt.new**
-
 - 👨‍💻 All of my projects are available at [https://nirajjha.xyz](https://nirajjha.xyz)
 
 - 📝 I regularly write articles on [Will write soon in the future](Will write soon in the future)
