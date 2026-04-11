@@ -1,43 +1,144 @@
-<h1 align="center">Hi 👋, I'm Niraj Kumar Jha</h1>
-<h3 align="center">Full Stack Developer | Love to build things | Building TheCoder'z</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&durati
+  on=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C
+  +I'm+Niraj+Jha+%F0%9F%91%8B;Full+Stack+Engineer;Product+Builder;Always+shipping
+  +something" alt="Typing SVG" />
+  </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jha-niraj&label=Profile%20views&color=0e75b6&style=flat" alt="jha-niraj" /> </p>
+  <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jha-niraj" alt="jha-niraj" /></a> </p>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/nirajjha31/"><img
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=link
+  edin&logoColor=white"/></a>
+    <a href="https://x.com/iamnirajjha"><img src="https://img.shields.io/badge/Tw
+  itter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+    <a href="https://nirajjha.xyz"><img src="https://img.shields.io/badge/Portfol
+  io-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <a href="mailto:jhaniraj45@gmail.com"><img src="https://img.shields.io/badge/
+  Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://drive.google.com/file/d/1yKhT8_dMVJQPfFZNyK9_UWihTGHrm5Bt/vi
+  ew?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-
+  the-badge&logo=googledrive&logoColor=white"/></a>
+  </div>
 
-<p align="left"> <a href="https://twitter.com/iamnirajjha" target="blank"><img src="https://img.shields.io/twitter/follow/iamnirajjha?logo=twitter&style=for-the-badge" alt="iamnirajjha" /></a> </p>
+  <br/>
 
-- 🔭 I’m currently working on [The Coder'z, Project Central, ValidateX](https://coderzai.xyz, https://projectcentral.nirajjha.xyz, https://validatex.nirajjha.xyz)
+  ---
 
-- 🌱 I’m currently learning **DevOps from Harkirat Cohort-2**
+  ### 🧑‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://nirajjha.xyz](https://nirajjha.xyz)
+  Full Stack Engineer who ships products — not just features. Currently building
+  **[FlexOps](https://github.com/jha-niraj)** and **[The
+  Coder'z](https://coderzai.xyz)** while working full-time. I enjoy going from
+  zero to production-ready fast — think Auth, SaaS, real-time systems, and
+  integrations.
 
-- 📝 I regularly write articles on [Will write soon in the future](Will write soon in the future)
+  - 🏢 Full Stack Engineer at **Creatr**
+  - 🏗️ Building **The Coder'z** — an engineering intelligence platform
+  - 🎓 B.Tech CSE @ Lovely Professional University (2022–2026)
+  - 🌍 Based in Punjab, India
 
-- 💬 Ask me about **React, Next JS, Development, Product Building**
+  ---
 
-- 📫 How to reach me **jhaniraj45@gmail.com**
+  ### 🚀 Tech Stack
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qM4A2hIMuRg_XotbL2KJD0Ht2VIGB6D9/view?usp=sharing](https://drive.google.com/file/d/1qM4A2hIMuRg_XotbL2KJD0Ht2VIGB6D9/view?usp=sharing)
+  <div align="center">
 
-- ⚡ Fun fact **Well, let's go for ride.**
+  **Frontend**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamnirajjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnirajjha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nirajjha31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirajjha31" height="30" width="40" /></a>
-<a href="https://instagram.com/iam.nirajjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.nirajjha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nirajjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nirajjha" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/niraj_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="niraj_jha" height="30" width="40" /></a>
-<a href="https://discord.gg/K9ThPByh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K9ThPByh" height="30" width="40" /></a>
-</p>
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=n
+  extdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react
+  &logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&
+  logo=typescript&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&l
+  ogo=tailwindcss&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&l
+  ogo=framer&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  **Backend**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jha-niraj&show_icons=true&locale=en&layout=compact" alt="jha-niraj" /></p>
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=n
+  odedotjs&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColo
+  r=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=e
+  xpress&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&
+  logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=m
+  ongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis
+  &logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jha-niraj&show_icons=true&locale=en" alt="jha-niraj" /></p>
+  **DevOps & Tools**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jha-niraj&" alt="jha-niraj" /></p>
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=doc
+  ker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon
+  s3&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&
+  logo=cloudflare&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoC
+  olor=white)
+
+  </div>
+
+  ---
+
+  ### 📚 Currently Learning
+
+  ├── 🦫  Golang — concurrency, goroutines, building production APIs
+  ├── ⚙️  Backend Deep Dive — system design, distributed systems, scalability
+  └── 📐  Architecture & Principles — SOLID, DDD, event-driven patterns
+
+  ---
+
+  ### 🏗️ Featured Projects
+
+  | Project | What it does | Stack |
+  |---|---|---|
+  | [**FlexOps**](https://github.com/jha-niraj) | RevOps SaaS for flex space
+  operators — KPIs, forecasting, CRM integrations | Next.js, Drizzle, Cloudflare
+  |
+  | [**The Coder'z**](https://coderzai.xyz) | Engineering intelligence suite for
+  developers | Next.js, TypeScript, PostgreSQL |
+  | [**ValidateX**](https://github.com/jha-niraj/Validate-X) | Community-driven
+  idea validation with blockchain rewards | Next.js, Web3 |
+  | [**Awaz.ai**](https://github.com/jha-niraj/Awaz.ai) | Multilingual voice
+  campaign platform for SMBs | Next.js, AI/NLP |
+  | [**Campus Gig**](https://github.com/jha-niraj/Campus-Gig) | Freelance
+  marketplace for students | Next.js, PostgreSQL |
+  | [**Kisan Connect**](https://github.com/jha-niraj/Kisan-Connect) |
+  Agricultural marketplace for farmers and buyers | Next.js, TypeScript |
+
+  ---
+
+  ### 📊 GitHub Stats
+
+  <div align="center">
+    <img height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=jha-niraj&show_icons=t
+  rue&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-niraj&l
+  ayout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  </div>
+
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=jha-niraj&theme=tokyonight&hi
+  de_border=true" />
+  </div>
+
+  ---
+
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=jha-niraj&style=flat-square&col
+  or=6366F1" />
+    <br/><br/>
+    <i>Building in public. One commit at a time.</i>
+  </div>
+
+  ---
