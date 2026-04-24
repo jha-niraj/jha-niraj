@@ -33,7 +33,7 @@ Full Stack Engineer who ships products — not just features. Currently building
 - 🏢 **Full Stack Engineer** at Creatr
 - 🏗️ Building **[The Coder'z](https://coderzai.xyz)** — an engineering intelligence platform
 - 🎓 B.Tech CSE @ Lovely Professional University (2022–2026)
-- 🌍 Based in Punjab, India
+- 🌍 Based in Bangaluru, India
 
 ---
 
