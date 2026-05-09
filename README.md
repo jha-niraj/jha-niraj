@@ -28,10 +28,10 @@
 
 ## 🧑‍💻 About Me
 
-Full Stack Engineer who ships products — not just features. Currently building **[The Coder'z](https://coderzai.xyz)** while working full-time at **Creatr**. I enjoy going from zero to production-ready — Auth, SaaS, real-time systems, CRM integrations.
+Full Stack Engineer who ships products — not just features. Currently building **[BuildrHq](https://coderzai.xyz)** while working full-time at **Creatr**. I enjoy going from zero to production-ready — Auth, SaaS, real-time systems, CRM integrations.
 
 - 🏢 **Full Stack Engineer** at Creatr
-- 🏗️ Building **[The Coder'z](https://coderzai.xyz)** — an engineering intelligence platform
+- 🏗️ Building **[BuildrHq](https://coderzai.xyz)** — an engineering intelligence platform, **[Gurukul](https://gurukul.nirajjha.xyz)** - an school management platform
 - 🎓 B.Tech CSE @ Lovely Professional University (2022–2026)
 - 🌍 Based in Bangaluru, India
 
@@ -87,7 +87,7 @@ Full Stack Engineer who ships products — not just features. Currently building
       <a href="https://coderzai.xyz">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jha-niraj&repo=coderzofficial&theme=tokyonight&hide_border=true" />
       </a>
-      <br/><b>The Coder'z</b> — Engineering intelligence suite for developers
+      <br/><b>BuildrHq</b> — Engineering intelligence suite for developers
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/jha-niraj/Vani">
