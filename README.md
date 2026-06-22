@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 About Me
 
-Full Stack Engineer who ships products - not just features. Currently building **[BuildrHq](https://coderzai.xyz)** while working full-time at **Creatr**. I enjoy going from zero to production-ready — Auth, SaaS, real-time systems, CRM integrations.
+Full Stack Engineer who ships products - not just features. Currently building **[BuildrHq](https://coderzai.xyz)** while working full-time at **Creatr**. I enjoy going from zero to production-ready - Auth, SaaS, real-time systems, CRM integrations.
 
 - 🏢 **Full Stack Engineer** at Creatr
 - 🏗️ Building **[BuildrHq](https://coderzai.xyz)** - an engineering intelligence platform, **[Gurukul](https://gurukul.nirajjha.xyz)** - an school management platform
@@ -87,13 +87,13 @@ Full Stack Engineer who ships products - not just features. Currently building *
       <a href="https://coderzai.xyz">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jha-niraj&repo=coderzofficial&theme=tokyonight&hide_border=true" />
       </a>
-      <br/><b>BuildrHq</b> — Engineering intelligence suite for developers
+      <br/><b>BuildrHq</b> - Engineering intelligence suite for developers
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/jha-niraj/Vani">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jha-niraj&repo=Vani&theme=tokyonight&hide_border=true" />
       </a>
-      <br/><b>Vani</b> — Voice-first workspace. Audio → transcript, summary & tasks
+      <br/><b>Vani</b> - Voice-first workspace. Audio → transcript, summary & tasks
     </td>
   </tr>
   <tr>
@@ -101,13 +101,13 @@ Full Stack Engineer who ships products - not just features. Currently building *
       <a href="https://github.com/jha-niraj/AfterClass">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jha-niraj&repo=AfterClass&theme=tokyonight&hide_border=true" />
       </a>
-      <br/><b>AfterClass</b> — Campus social platform. Live rooms for students
+      <br/><b>AfterClass</b> - Campus social platform. Live rooms for students
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/jha-niraj/Validate-X">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jha-niraj&repo=Validate-X&theme=tokyonight&hide_border=true" />
       </a>
-      <br/><b>ValidateX</b> — Community idea validation with blockchain rewards
+      <br/><b>ValidateX</b> - Community idea validation with blockchain rewards
     </td>
   </tr>
   <tr>
@@ -115,13 +115,13 @@ Full Stack Engineer who ships products - not just features. Currently building *
       <a href="https://github.com/jha-niraj/Awaz.ai">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jha-niraj&repo=Awaz.ai&theme=tokyonight&hide_border=true" />
       </a>
-      <br/><b>Awaz.ai</b> — Multilingual voice campaigns for SMBs
+      <br/><b>Awaz.ai</b> - Multilingual voice campaigns for SMBs
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/jha-niraj/Campus-Gig">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jha-niraj&repo=Campus-Gig&theme=tokyonight&hide_border=true" />
       </a>
-      <br/><b>Campus Gig</b> — Freelance marketplace for college students
+      <br/><b>Campus Gig</b> - Freelance marketplace for college students
     </td>
   </tr>
 </table>
