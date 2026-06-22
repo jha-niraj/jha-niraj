@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 About Me
 
-Full Stack Engineer who ships products — not just features. Currently building **[BuildrHq](https://coderzai.xyz)** while working full-time at **Creatr**. I enjoy going from zero to production-ready — Auth, SaaS, real-time systems, CRM integrations.
+Full Stack Engineer who ships products - not just features. Currently building **[BuildrHq](https://coderzai.xyz)** while working full-time at **Creatr**. I enjoy going from zero to production-ready — Auth, SaaS, real-time systems, CRM integrations.
 
 - 🏢 **Full Stack Engineer** at Creatr
 - 🏗️ Building **[BuildrHq](https://coderzai.xyz)** - an engineering intelligence platform, **[Gurukul](https://gurukul.nirajjha.xyz)** - an school management platform
