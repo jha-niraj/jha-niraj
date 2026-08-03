@@ -16,16 +16,16 @@
 
 ### About
 
-Full Stack Engineer at **[Creatr](https://getcreatr.com)**, building the AI systems behind DeepBuild — an email pipeline wired into Gmail webhooks, M365 and MSP integrations, and a retrieval-backed pipeline for long-form reports.
+Full Stack Engineer at **[Creatr](https://getcreatr.com)**, building the AI systems behind DeepBuild - an email pipeline wired into Gmail webhooks, M365 and MSP integrations, and a retrieval-backed pipeline for long-form reports.
 
 Before that I was founding engineer at **EventEye**, taking an event management and discovery platform from an empty repo to 15,000+ users.
 
 I care about designing the data model before writing the code, keeping AI behind guardrails instead of hoping for the best, and shipping things people actually use.
 
 ```
-Now        Full Stack Engineer @ Creatr — AI pipelines, integrations, guardrails
-Side       BuildrHQ — engineering intelligence for developers
-Study      B.Tech CSE @ Lovely Professional University · 2022–2026
+Now        Full Stack Engineer @ Creatr - AI pipelines, integrations, guardrails
+Side       BuildrHQ - engineering intelligence for developers
+Study      B.Tech CSE @ Lovely Professional University · 2022-2026
 Base       Bengaluru, India
 ```
 
@@ -35,9 +35,9 @@ Base       Bengaluru, India
 
 | Role | Where | When |
 | :--- | :--- | :--- |
-| Full Stack Engineer | [Creatr](https://getcreatr.com) | Apr 2026 — Present |
-| Founding Engineer | EventEye | Jun 2025 — Feb 2026 |
-| Growth Engineer Intern | [xAGI](https://xagi.in) | Jan 2025 — May 2025 |
+| Full Stack Engineer | [Creatr](https://getcreatr.com) | Apr 2026 - Present |
+| Founding Engineer | EventEye | Jun 2025 - Feb 2026 |
+| Growth Engineer Intern | [xAGI](https://xagi.in) | Jan 2025 - May 2025 |
 
 ---
 
@@ -46,9 +46,9 @@ Base       Bengaluru, India
 | Project | What it is | |
 | :--- | :--- | :--- |
 | **The Coder'z** | AI learning platform built on a RAG system that turns a developer's own work into a personal agent | [site](https://coderzofficial.vercel.app) · [code](https://github.com/jha-niraj/buildrhqofficial) |
-| **BuildrHQ** | Engineering intelligence suite — ideas, specs, and the work around shipping them | [site](https://buildrhq.com) |
+| **BuildrHQ** | Engineering intelligence suite - ideas, specs, and the work around shipping them | [site](https://buildrhq.com) |
 | **ValidateX** | Community idea validation with on-chain rewards for feedback that holds up | [code](https://github.com/jha-niraj/Validate-X) |
-| **AfterClass** | Campus-first social platform — real-time study rooms and live hangouts | [site](https://afterclass-nine.vercel.app) · [code](https://github.com/jha-niraj/AfterClass) |
+| **AfterClass** | Campus-first social platform - real-time study rooms and live hangouts | [site](https://afterclass-nine.vercel.app) · [code](https://github.com/jha-niraj/AfterClass) |
 | **Vani** | Long-form audio → searchable transcripts, summaries, and tasks | [code](https://github.com/jha-niraj/Vani) |
 | **Awaz.ai** | Multilingual, compliant voice campaigns for SMBs | [code](https://github.com/jha-niraj/Awaz.ai) |
 
@@ -89,16 +89,16 @@ Base       Bengaluru, India
 
 ### Currently going deeper on
 
-- **Distributed systems** — consensus, replication, and failure modes under real load
-- **Retrieval quality** — chunking, reranking, and actually evaluating RAG instead of eyeballing it
-- **System design** — designing for the second year of a product, not just the first launch
+- **Distributed systems** - consensus, replication, and failure modes under real load
+- **Retrieval quality** - chunking, reranking, and actually evaluating RAG instead of eyeballing it
+- **System design** - designing for the second year of a product, not just the first launch
 
 ---
 
 ### Writing
 
-- [The prefetch that made the list page slower](https://nirajjha.in/the-prefetch-that-made-it-slower) — a three-line a11y fix made navigation instant and the orders list slow
-- [Hello, I'm Niraj](https://nirajjha.in/hello) — what I've shipped, and four things I got wrong first
+- [The prefetch that made the list page slower](https://nirajjha.in/the-prefetch-that-made-it-slower) - a three-line a11y fix made navigation instant and the orders list slow
+- [Hello, I'm Niraj](https://nirajjha.in/hello) - what I've shipped, and four things I got wrong first
 
 ---
 
@@ -109,7 +109,7 @@ Base       Bengaluru, India
 </div>
 
 <!--
-  FALLBACK — if the graph above shows the purple "Can't fetch any contribution"
+  FALLBACK - if the graph above shows the purple "Can't fetch any contribution"
   error again, delete the block above and uncomment this one instead. It needs
   .github/workflows/snake.yml to have run once so the `output` branch exists.
   Verify the raw URL loads in a browser before uncommenting.
