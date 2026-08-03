@@ -100,14 +100,19 @@ Base       Bengaluru, India
 - [The prefetch that made the list page slower](https://nirajjha.in/the-prefetch-that-made-it-slower) — a three-line a11y fix made navigation instant and the orders list slow
 - [Hello, I'm Niraj](https://nirajjha.in/hello) — what I've shipped, and four things I got wrong first
 
-<!--
-  GITHUB ACTIVITY — uncomment this block ONLY after the snake workflow
-  (.github/workflows/snake.yml) has run once and the `output` branch exists.
-  Check it renders at the raw URL in a browser first.
-
 ---
 
 ### Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jha-niraj&custom_title=Contribution%20Graph&bg_color=0A0A0A&color=E4E4E7&title_color=F59E0B&line=F59E0B&point=FCD34D&area=true&area_color=F59E0B&hide_border=true&radius=8" width="98%" alt="Contribution graph" />
+</div>
+
+<!--
+  FALLBACK — if the graph above shows the purple "Can't fetch any contribution"
+  error again, delete the block above and uncomment this one instead. It needs
+  .github/workflows/snake.yml to have run once so the `output` branch exists.
+  Verify the raw URL loads in a browser before uncommenting.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jha-niraj/jha-niraj/output/snake.svg" width="98%" alt="Contribution graph" />
