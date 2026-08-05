@@ -40,8 +40,7 @@ I care about designing the data model before writing the code, keeping AI behind
 
 | Project | What it is | |
 | :--- | :--- | :--- |
-| **The Coder'z** | AI learning platform built on a RAG system that turns a developer's own work into a personal agent | [site](https://coderzofficial.vercel.app) · [code](https://github.com/jha-niraj/buildrhqofficial) |
-| **BuildrHQ** | Engineering intelligence suite - ideas, specs, and the work around shipping them | [site](https://buildrhq.com) |
+| **ShipItHQ** | Engineering intelligence suite - ideas, specs, and the work around shipping them | [site](https://buildrhq.com) |
 | **ValidateX** | Community idea validation with on-chain rewards for feedback that holds up | [code](https://github.com/jha-niraj/Validate-X) |
 | **AfterClass** | Campus-first social platform - real-time study rooms and live hangouts | [site](https://afterclass-nine.vercel.app) · [code](https://github.com/jha-niraj/AfterClass) |
 | **Vani** | Long-form audio → searchable transcripts, summaries, and tasks | [code](https://github.com/jha-niraj/Vani) |
