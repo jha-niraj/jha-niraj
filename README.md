@@ -23,7 +23,7 @@ Before that I was founding engineer at **EventEye**, taking an event management 
 I care about designing the data model before writing the code, keeping AI behind guardrails instead of hoping for the best, and shipping things people actually use.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jha-niraj/jha-niraj/main/assets/status.svg" width="100%" alt="Now: Full Stack Engineer @ Creatr - AI pipelines, integrations, guardrails. Side: BuildrHQ - engineering intelligence for developers. Study: B.Tech CSE @ Lovely Professional University, 2022-2026. Base: Bengaluru, India." />
+  <img src="https://raw.githubusercontent.com/jha-niraj/jha-niraj/main/status.svg" width="100%" alt="Now: Full Stack Engineer @ Creatr - AI pipelines, integrations, guardrails. Side: BuildrHQ - engineering intelligence for developers. Study: B.Tech CSE @ Lovely Professional University, 2022-2026. Base: Bengaluru, India." />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I care about designing the data model before writing the code, keeping AI behind
 ### Experience
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jha-niraj/jha-niraj/main/assets/experience.svg" width="100%" alt="Full Stack Engineer at Creatr, Apr 2026 to present - AI pipelines, M365 and MSP integrations. Founding Engineer at EventEye, Jun 2025 to Feb 2026 - zero to 15,000+ users. Growth Engineer Intern at xAGI, Jan 2025 to May 2025 - 4-5 customer-facing AI products shipped." />
+  <img src="https://raw.githubusercontent.com/jha-niraj/jha-niraj/main/experience.svg" width="100%" alt="Full Stack Engineer at Creatr, Apr 2026 to present - AI pipelines, M365 and MSP integrations. Founding Engineer at EventEye, Jun 2025 to Feb 2026 - zero to 15,000+ users. Growth Engineer Intern at xAGI, Jan 2025 to May 2025 - 4-5 customer-facing AI products shipped." />
 </p>
 
 ---
